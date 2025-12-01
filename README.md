@@ -26,7 +26,7 @@ To run this project, ensure you have the following installed:
 3. Set up a virtual environment:
    ```bash
    python3 -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   source venv/bin/activate
    ```
 4. Install the required packages:
    ```bash
